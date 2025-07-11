@@ -164,7 +164,7 @@ header {
 @media (max-width: 992px) {
     .carousel-caption {
         align-items: flex-start;
-        padding-top: 550px;
+        padding-top: 10rem;
         text-align: center;
     }
 
